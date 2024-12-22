@@ -53,9 +53,9 @@ This repository contains a comprehensive analysis of chronic diseases in the Uni
 
 ## Contributors
 
-- Arun Thakur ([LinkedIn](https://www.linkedin.com/in/thakurarun/){:target="_blank"})
-- Caleb Felton ([LinkedIn](https://www.linkedin.com/in/caleb-felton/){:target="_blank"})
-- Sushmitha Halli Sudhakara ([LinkedIn](https://www.linkedin.com/in/hssushmitha/){:target="_blank"})
+- Arun Thakur <a href="https://www.linkedin.com/in/thakurarun/" target="_blank">(LinkedIn)</a>
+- Caleb Felton <a href="https://www.linkedin.com/in/caleb-felton/" target="_blank">(LinkedIn)</a>
+- Sushmitha Halli Sudhakara <a href="https://www.linkedin.com/in/hssushmitha/" target="_blank">(LinkedIn)</a>
 
 ## Acknowledgments
 
