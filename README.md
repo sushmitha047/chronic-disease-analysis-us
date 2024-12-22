@@ -4,7 +4,7 @@
 
 This repository contains a comprehensive analysis of chronic diseases in the United States, focusing on trends, demographics, and public health implications. The project utilizes data from the U.S. Chronic Disease Indicators (CDI) dataset to provide valuable insights into major health concerns such as cancer, cardiovascular diseases, and diabetes.
 
-<a href="https://youtu.be/HowJubUNq74">
+<a href="https://youtu.be/HowJubUNq74" target="_blank">
   <img src="https://img.youtube.com/vi/HowJubUNq74/0.jpg" alt="Watch the Video" style="width:100%;">
 </a>
 
@@ -53,9 +53,9 @@ This repository contains a comprehensive analysis of chronic diseases in the Uni
 
 ## Contributors
 
-- Arun Thakur ([LinkedIn](https://www.linkedin.com/in/thakurarun/))
-- Caleb Felton ([LinkedIn](https://www.linkedin.com/in/caleb-felton/))
-- Sushmitha Halli Sudhakara ([LinkedIn](https://www.linkedin.com/in/hssushmitha/))
+- Arun Thakur ([LinkedIn](https://www.linkedin.com/in/thakurarun/) target="_blank")
+- Caleb Felton ([LinkedIn](https://www.linkedin.com/in/caleb-felton/) target="_blank")
+- Sushmitha Halli Sudhakara ([LinkedIn](https://www.linkedin.com/in/hssushmitha/) target="_blank")
 
 ## Acknowledgments
 
