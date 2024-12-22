@@ -45,12 +45,6 @@ This repository contains a comprehensive analysis of chronic diseases in the Uni
 - Expand the analysis to include global health data for comparative studies.
 - Develop interactive dashboards for real-time health data visualization.
 
-## How to Use
-
-1. Clone the repository.
-2. Open the Jupyter notebook to view the detailed analysis.
-3. Refer to the PDF presentation for a summary of findings and visualizations.
-
 ## Contributors
 
 - Arun Thakur <a href="https://www.linkedin.com/in/thakurarun/" target="_blank">(LinkedIn)</a>
