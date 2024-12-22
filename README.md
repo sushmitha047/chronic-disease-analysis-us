@@ -4,7 +4,9 @@
 
 This repository contains a comprehensive analysis of chronic diseases in the United States, focusing on trends, demographics, and public health implications. The project utilizes data from the U.S. Chronic Disease Indicators (CDI) dataset to provide valuable insights into major health concerns such as cancer, cardiovascular diseases, and diabetes.
 
-[![Watch the Video](https://img.youtube.com/vi/HowJubUNq74/0.jpg)](https://youtu.be/HowJubUNq74)
+<a href="https://youtu.be/HowJubUNq74">
+  <img src="https://img.youtube.com/vi/HowJubUNq74/0.jpg" alt="Watch the Video" style="width:100%;">
+</a>
 
 ## Key Findings
 
